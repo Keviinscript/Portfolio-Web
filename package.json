@@ -1,0 +1,19 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "tailwind sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.3",
+    "font-awesome": "^4.7.0",
+    "svg-icon": "^0.8.2"
+  }
+}
