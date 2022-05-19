@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/**/*.{html,js}" , "./node_modules/flowbite/**/*.js"],
+  content: ["./dist/**/*.{html,js}" , "./node_modules/flowbite/**/*.js"],
   theme: {
     fontFamily: {
       'culpa':['Montserrat', 'sans-serif'],
